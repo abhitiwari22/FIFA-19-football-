@@ -1,10 +1,10 @@
 # FIFA-19-football-
 
-#About the Dataset
+# About the Dataset
 
 This dataset contains features of around 18,000 football players. Using only numerical attributes to cluster the data.
 
-#Data Visualization and Data Preparation
+# Data Visualization and Data Preparation
 
 I have  used matplotlib and seaborn for visualization.
 
@@ -18,7 +18,7 @@ Use visualization techniques to find outliers like Ronaldo and Messi
 
 Distribution of players in different clubs/countries on the basis of some attributes
 
-#Data transformations:
+# Data transformations:
 
 Remove inconsistencies from ‘Value’ and ‘Wage’ columns
 
